@@ -1,0 +1,7 @@
+viteပါရမယ်
+vite install
+scssနဲ့ရေး
+antimationထည့်
+golden ratioအတိုင်းfont sizeတွေကိုလိုက်နာရမယ်
+gitပေါ်တင်ပေး
+gradient ထည့်
